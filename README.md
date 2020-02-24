@@ -1,6 +1,6 @@
 ### Quick Start
 ```
-git clone --depth 1 https://github.com/purescript-templates/react-basic-hooks.git myApp
+git clone --depth 1 --branch button-log-example https://github.com/milesfrain/react-basic-hooks.git myApp
 cd myApp
 npm install -g purescript spago parcel
 spago build
